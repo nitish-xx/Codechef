@@ -3,9 +3,9 @@ https://www.codechef.com/problems/GDTURN
 using namespace std;
 
 int main() {
-    int t;
-    cin>>t;
-    while(t--)
+    int n;
+    cin>>n;
+    while(n--)
     {
         int x,y;
         cin>>x>>y;
